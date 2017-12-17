@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/trifonnt/ext-lib-amazon-mws-fulfillment-inbound-shipment.png?branch=master)](https://travis-ci.org/trifonnt/ext-lib-amazon-mws-fulfillment-inbound-shipment)
-[![](https://jitpack.io/v/trifonnt/ext-lib-amazon-mws-fulfillment-inbound-shipment.svg)](https://jitpack.io/#trifonnt/ext-lib-amazon-mws-fulfillment-inbound-shipment)
+[![Build Status](https://travis-ci.org/trifonnt/ext-lib-amazon-mws-fulfillment-inventory.png?branch=master)](https://travis-ci.org/trifonnt/ext-lib-amazon-mws-fulfillment-inventory)
+[![](https://jitpack.io/v/trifonnt/ext-lib-amazon-mws-fulfillment-inventory.svg)](https://jitpack.io/#trifonnt/ext-lib-amazon-mws-fulfillment-inventory)
 
 
 Amazon MWS(Marketplace Web Service) Fulfillment Inbound Shipment Java Library - Version 2010-10-01._CB294026393
